@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Test PDF Generation</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/css/bootstrap-select.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
+	
+	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.2.61/jspdf.debug.js"></script>  -->
+ 
+	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/2.0.28/jspdf.plugin.autotable.js"></script>  -->
+    <style>
+        body{
+            background-color: gray;
+        }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.3.1/jspdf.umd.min.js"></script>
+</head>
+<body>
+    <h1 style="color:white">Test PDF Generation</h1>
+    <button id="generatePdf">Generate PDF</button>
+    
+    <!-- Hidden fields with default values for testing -->
+    <input type="hidden" id="name" value="Nom Prénom">
+    <input type="hidden" id="transID" value="123456789">
+    <input type="hidden" name="filiere" value="Filière A (ESC)">
+    <input type="hidden" id="esc_choix1" value="Choix 1 ESC">
+    <input type="hidden" id="esc_choix2" value="Choix 2 ESC">
+    <input type="hidden" name="centre_exam" value="Centre d'examen A">
+    <input type="hidden" name="etablissement" value="Premier Choix">
+    <input type="hidden" name="etablissement2" value="Deuxième Choix">
+    <input type="hidden" name="etablissement3" value="Troisième Choix">
+
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+	
+    <script>
+        document.getElementById('generatePdf').addEventListener('click', function() {
+            const { jsPDF } = window.jspdf;
+            var doc = new jsPDF();
+            var doc = new jsPDF();
+
+
+            doc.setFont("helvetica");
+
+            doc.setFontSize(13);
+            doc.setTextColor(10,1,10);
+            doc.setFont("helvetica", "bold");
+            doc.text('CONCOURS D’ENTREE A L’ESSEC / COMPETITIVE ENTRANCE EXAM INTO ASEB', 15, 20);
+
+            doc.setFontSize(11);
+            doc.setTextColor(10,1,10);
+            doc.setFont("helvetica", "bold");
+
+            var text = 'ATTESTATION D\'ENREGISTREMENT EN LIGNE / ONLINE REGISTRATION ATTESTATIONS';
+            doc.text(text, 23, 29);
+
+            var textWidth = doc.getTextWidth(text);
+
+            var startX = 23;
+            var startY = 30;
+            doc.line(startX, startY, startX + textWidth + 3, startY);
+
+            
+
+            doc.setLineWidth(0.07);
+            doc.rect(8, 80, 195, 180);
+
+            doc.line(8, 87, 203, 87); // Horizontal line after name
+            doc.line(8, 108, 203, 108); // Horizontal line after registration number
+            doc.line(8, 119, 203, 119); // Horizontal line after academic year
+            doc.line(8, 130, 203, 130); // Horizontal line after chosen program
+            doc.line(8, 141, 203, 141); // Horizontal line after option
+            doc.line(8, 147, 203, 147); // Horizontal line after date of exam
+            doc.line(8, 153, 203, 153); // Horizontal line after exam center
+            doc.line(8, 164, 203, 164); // Horizontal line after payment number
+            doc.line(8, 195.6, 203, 195.6); // Horizontal line after chosen training
+            doc.line(8, 226, 203, 226); // Horizontal line after chosen training
+            doc.line(8, 236, 203, 236); // Horizontal line after chosen training
+            doc.line(8, 242, 203, 242); // Horizontal line after chosen training
+            // doc.line(8, 247, 203, 247); // Horizontal line after chosen training
+            doc.line(8, 252, 203, 252); // Horizontal line after chosen training
+
+            // INTER
+            doc.line(60, 135.2, 203, 135.2); // Horizontal line after chosen training
+            doc.line(60, 175, 203, 175); // Horizontal line after chosen training
+            doc.line(60, 185, 203, 185); // Horizontal line after chosen training
+
+            // Draw vertical lines
+            doc.line(116, 87, 116, 195.6); // Vertical line after "Mme / Monsieur"
+            doc.line(60, 130, 60, 141); // Vertical line between choices
+            doc.line(60, 164, 60, 195.6); // Vertical line between first and second choice
+            doc.line(75, 236, 75, 260); // Horizontal line after chosen training
+
+
+            doc.setFontSize(11);
+            doc.setTextColor(10,1,10);
+            doc.setFont("helvetica", "bold");
+            doc.text('M. / Mrs. // Mme / Monsieur : ', 10, 85);
+            doc.setFont("helvetica", "normal");
+            doc.text(document.getElementById('name').value, 90, 85);
+
+            doc.setTextColor(10,1,10);
+            doc.setFont("helvetica", "bolditalic");
+            doc.text('Your application for the ESSEC entrance exam has been ', 10, 91);
+            doc.text('registered under number :…', 10, 96);
+            doc.setTextColor(10,1,10);
+            doc.setFont("helvetica", "normal");
+            doc.text('Votre candidature au concours d\'entrée à l\'ESSEC a été ', 10, 101);
+            doc.text('enregistrée sous le numéro de dossier : ', 10, 106);
+            doc.setTextColor(255,0,0);
+            doc.text('NUMERO_GLOBAL', 145, 98);
+
+            doc.setTextColor(10,1,10);
+            doc.setFont("helvetica", "bold");
+            doc.text('For the competitve entrance exam of the academic year : ', 10, 112);
+            doc.setTextColor(10,1,10);
+            doc.setFont("helvetica", "normal");
+            doc.text('Pour le concours d\'entrée de l\'année académique : ', 10, 117);
+            doc.setFont("helvetica", "bold");
+            doc.text('2024/2025', 145, 113);
+
+            doc.setFont("helvetica", "bold");
+            doc.setTextColor(10,1,10);
+            doc.text('Chosen Program : ', 10, 123);
+            doc.setFont("helvetica", "normal");
+            doc.setTextColor(10,1,10);
+            doc.text('Filière Choisie :        (ESC ou EPA)', 10, 128);
+            doc.setFont("helvetica", "normal");
+            doc.text(document.querySelector('input[name="filiere"]').value, 145, 125);
+
+            doc.setFont("helvetica", "bold");
+            doc.setTextColor(10,1,10);
+            doc.text('Chosen/foreseen option : ', 10, 134);
+            doc.setFont("helvetica", "normal");
+            doc.setTextColor(10,1,10);
+            doc.text('Option choisie/envisagée : ', 10, 139);
+            
+            doc.setTextColor(10,1,10);
+            doc.setFont("helvetica", "bold");
+            doc.text('Choice/', 80, 134);
+            doc.setFont("helvetica", "normal");
+            doc.text('Choix 1 : ', 94, 134);
+            doc.setFont("helvetica", "normal");
+            doc.text(document.getElementById('esc_choix1').value, 145, 134);
+            doc.setFont("helvetica", "bold");
+            doc.text('Choice/', 80, 139);
+            doc.setFont("helvetica", "normal");
+            doc.text('Choix 2 : ', 94, 139);
+            doc.setFont("helvetica", "normal");
+            doc.text(document.getElementById('esc_choix2').value, 145, 139);
+
+            doc.setTextColor(10,1,10);
+            doc.setFont("helvetica", "bold");
+            doc.text('Date of the Exam /', 10, 145);
+            doc.setFont("helvetica", "normal");
+            doc.text('Date du concours : ', 46, 145);
+            doc.setFont("helvetica", "normal");
+            doc.text('27/08/2024', 145, 145);
+
+            doc.setTextColor(10,1,10);
+            doc.setFont("helvetica", "bold");
+            doc.text('Selected examination center / ', 10, 151);
+            doc.setFont("helvetica", "normal");
+            doc.text('Centre d\'examen choisi : ', 66, 151);
+            doc.setFont("helvetica", "normal");
+            doc.text(document.querySelector('input[name="centre_exam"]').value, 145, 151);
+
+            doc.setTextColor(10,1,10);
+            doc.setFont("helvetica", "bold");
+            doc.text('Exam fee payment receipt number /', 10, 157);
+            doc.setFont("helvetica", "normal");
+            doc.text('Numéro du reçu de : ', 78, 157);
+            doc.setFont("helvetica", "normal");
+            doc.text('versement des frais de concours : ', 10, 162);
+            doc.setFont("helvetica", "normal");
+            doc.text(document.getElementById('transID').value, 145, 159);
+
+            doc.setTextColor(10,1,10);
+            doc.setFontSize(11);
+            doc.setFont("helvetica", "bold");
+            doc.text('Chosen training', 10, 169);
+            doc.text('establishment :', 10, 174);
+            doc.setFont("helvetica", "normal");
+            doc.text('Etablissement de', 10, 179);
+            doc.text('formation choisi : ', 10, 184);
+
+            doc.setFontSize(11);
+            doc.setFont("helvetica", "bold");
+            doc.text('First choice:', 86.6, 169);
+            doc.setFont("helvetica", "normal");
+            doc.text('Premier Choix: ', 84, 174);
+            doc.setFont("helvetica", "normal");
+            doc.text(document.querySelector('input[name="etablissement"]').value, 145, 172);
+
+            doc.setTextColor(10,1,10);
+            doc.setFont("helvetica", "bold");
+            doc.text('Second choice:', 81, 179);
+            doc.setFont("helvetica", "normal");
+            doc.text('Deuxième Choix: ', 80, 184);
+            doc.setFont("helvetica", "normal");
+            doc.text(document.querySelector('input[name="etablissement2"]').value, 145, 182);
+
+            doc.setTextColor(10,1,10);
+            doc.setFont("helvetica", "bold");
+            doc.text('Third choice:', 85, 189);
+            doc.setFont("helvetica", "normal");
+            doc.text('Troisième Choix: ', 80.2, 194);
+            doc.setFont("helvetica", "normal");
+            doc.text(document.querySelector('input[name="etablissement3"]').value, 145, 192);
+
+            doc.setTextColor(10,1,10);
+            doc.setFontSize(10);
+            doc.setFont("helvetica", "normal");
+            doc.text('NB 1 :  Given that you have done so deliberately, by choosing an establishment other than ESSEC, you are thereby', 10, 200, {maxWidth: 190});
+            doc.text('undertaking to pay the training fees which are applied there, in the event that you succeed the competition to enter therein', 10, 205, {maxWidth: 190});
+
+            doc.setFont("helvetica", "bold");
+            doc.text('NB 1 : Etant donné que vous l\'avez fait délibérément, en choisissant un établissement autre que l\'ESSEC, vous', 10, 210, {maxWidth: 190});
+            doc.text('prenez par ce fait même l\'engagement de payer les frais formation qui y sont appliqués, dans l\'éventualité où vous y serez admis.', 10, 215, {maxWidth: 190});
+
+            doc.setFont("helvetica", "bold");
+            doc.text('NB 2: on the day of the competition, you must present yourself with:', 10, 230);
+            doc.setFont("helvetica", "bolditalic");
+            doc.text('NB 2 : le jour du concours, vous devrez impérativement vous présenter avec :', 10, 235);
+
+            doc.setFont("helvetica", "normal");
+            doc.text('1.', 70, 241);
+            doc.text('A valid identity document // Une pièce d\'identité en cours de validité', 80, 241);
+            doc.text('2.', 70, 248.5);
+            doc.text('The original + 01 photocopy of your competition fees payment receipt //', 80, 246);
+            doc.setFont("helvetica", "italic");
+            doc.text('L’original + 01 photocopie de votre reçu de versement des frais de concours', 80, 251);
+            doc.setFont("helvetica", "normal");
+            doc.text('3.', 70, 256);
+            doc.text('This online registration form // La présente fiche d’enregistrement en ligne', 80, 256);
+
+            doc.setFontSize(10);
+            doc.setFont("helvetica", "bold");
+            doc.text('Good luck', 178, 272);
+            doc.setFont("helvetica", "bolditalic");
+            doc.text('Bonne Chance', 178, 278);
+            doc.save('inscriptionConcours.pdf');
+                   
+        });
+    </script>
+</body>
+</html>

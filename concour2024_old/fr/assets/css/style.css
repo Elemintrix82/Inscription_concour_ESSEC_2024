@@ -1,0 +1,584 @@
+button:focus {outline:none !important;}
+
+#matrimonial .f{
+
+	display: none;
+
+}
+
+*{
+
+	border-radius: 0 !important; 
+
+	outline: none !important;
+
+}
+
+.bootstrap-select .btn:focus, .bootstrap-select .btn:active {
+
+    outline: none !important;
+
+    -webkit-box-shadow: none !important;
+
+    box-shadow: none !important
+
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default  {
+
+    color: #333;
+
+     background-color: #fff; 
+
+    border-color: #adadad; 
+
+}
+
+.btn-group.open .dropdown-toggle {
+
+    -webkit-box-shadow: none !important;
+
+    box-shadow: none !important
+
+}
+
+.form-control {
+
+  box-shadow: none !important;
+
+
+
+}
+
+.form-group {
+
+    margin-bottom: 10px;
+
+}
+
+html{
+
+	 height: 100%;
+
+}
+
+.navbar {
+
+    border: none !important;
+
+}
+
+/*.fade {
+
+    opacity: 0;
+
+    -webkit-transition: opacity .15s linear;
+
+    transition: opacity .15s linear;
+
+    background-color: #354b5e;
+
+    background-image: url(img/13.png);
+
+    opacity: .5;
+
+}*/
+
+h1,h2,h3,h4 {
+
+  font-family: 'Roboto Condensed', sans-serif !important;
+
+}
+
+body {
+
+    padding: 0;
+
+    margin: 0;
+
+    height: 100%;
+
+    font-family: 'Roboto Condensed', sans-serif !important;
+
+    font-size: 14px;
+
+   
+
+}
+
+.classDiplom .btn-group{ 
+
+  width: 100px !important
+
+}
+
+.groupEPA, .groupESC {
+
+  display: none;
+
+}
+
+.control-label span{color: red}
+
+.wizard-modal p {
+
+	margin: 0 0 10px;
+
+	padding: 0;
+
+}
+
+
+
+.myRadio{
+
+	padding-top: 30px;
+
+}
+
+.myRadio input[type="radio"] {
+
+  display: none;
+
+}
+
+.myRadio input[type="radio"]:not(:disabled) ~ label {
+
+  cursor: pointer;
+
+}
+
+.myRadio input[type="radio"]:disabled ~ label {
+
+  color: #bcc2bf;
+
+  border-color: #bcc2bf;
+
+  box-shadow: none;
+
+}
+
+
+
+.myRadio label {
+
+  display: block;
+
+  background: white;
+
+  border: 1px solid #ccc;
+
+  border-radius: 2px;
+
+  padding: .8rem;
+
+  height: 80px;
+
+
+
+  margin-bottom: 1rem;
+
+  text-align: center;
+
+  /*box-shadow: 0px 3px 10px -2px rgba(161, 170, 166, 0.5);*/
+
+  position: relative;
+
+  color: #999;
+
+}
+
+.myRadio label h5{
+
+	margin-top: 20px; font-weight: bold;
+
+}
+
+.myRadio label p{
+
+	font-size: .7em
+
+}
+.myRadio label:hover  {
+    color: #3b706b;
+	background:#eee;
+}
+.myRadio input[type="radio"]:checked + label {
+
+  background: #3b706b;
+
+  border:1px solid #2a5954;
+
+  color: white;
+
+}
+
+.myRadio input[type="radio"]:checked + label::after {
+
+  color: #3d3f43;
+
+  font-family: "Font Awesome 5 Free";
+
+  border: 2px solid #2a5954;
+
+  content: '\f00c';
+
+  font-size: 16px;
+
+  position: absolute;
+
+  top: -16px;
+
+  left: 50%;
+
+  transform: translateX(-50%);
+
+  height: 35px;
+
+  width: 35px;
+
+  line-height: 35px;
+
+  text-align: center;
+
+  border-radius: 50%;
+
+  background: white;
+
+  box-shadow: 0px 2px 5px -2px rgba(0, 0, 0, 0.25);
+
+}
+
+/**************************** RADIO ********************************/
+
+.control-group {
+
+  display: inline-block;
+
+  vertical-align: top;
+
+  
+
+  text-align: left;
+
+ 
+
+
+
+  margin: 5px 0 0 0 ;
+
+}
+
+.control-group h5{
+
+    font-weight: bold;
+
+    font-family: 'Roboto Condensed', sans-serif !important;
+
+    font-size: 14px;
+
+}
+
+.control-group label{
+
+  font-size: inherit;
+
+  font-weight: normal;
+
+  padding-top: 3px;
+
+}
+
+.control {
+
+  display: block;
+
+  position: relative;
+
+  padding-left: 30px;
+
+  margin-bottom: 15px;
+
+  cursor: pointer;
+
+  font-size: 18px;
+
+}
+
+.control input {
+
+  position: absolute;
+
+  z-index: -1;
+
+  opacity: 0;
+
+}
+
+.control__indicator {
+
+  position: absolute;
+
+  top: 2px;
+
+  left: 0;
+
+  height: 20px;
+
+  width: 20px;
+
+  background: #e6e6e6;
+
+}
+
+.control--radio .control__indicator {
+
+  border-radius: 50% !important;
+
+}
+
+.control:hover input ~ .control__indicator,
+
+.control input:focus ~ .control__indicator {
+
+  background: #ccc;
+
+}
+
+.control input:checked ~ .control__indicator {
+
+  background: #2aa1c0;
+
+}
+
+.control:hover input:not([disabled]):checked ~ .control__indicator,
+
+.control input:checked:focus ~ .control__indicator {
+
+  background: #0e647d;
+
+}
+
+.control input:disabled ~ .control__indicator {
+
+  background: #e6e6e6;
+
+  opacity: 0.6;
+
+  pointer-events: none;
+
+}
+
+.control__indicator:after {
+
+  content: '';
+
+  position: absolute;
+
+  display: none;
+
+}
+
+.control input:checked ~ .control__indicator:after {
+
+  display: block;
+
+}
+
+.control--checkbox .control__indicator:after {
+
+  left: 8px;
+
+  top: 4px;
+
+  width: 3px;
+
+  height: 8px;
+
+  border: solid #fff;
+
+  border-width: 0 2px 2px 0;
+
+  transform: rotate(45deg);
+
+}
+
+.control--checkbox input:disabled ~ .control__indicator:after {
+
+  border-color: #7b7b7b;
+
+}
+
+.control--radio .control__indicator:after {
+
+  left: 7px;
+
+  top: 7px;
+
+  height: 6px;
+
+  width: 6px;
+
+  border-radius: 50%;
+
+  background: #fff;
+
+}
+
+.control--radio input:disabled ~ .control__indicator:after {
+
+  background: #7b7b7b;
+
+}
+
+.select {
+
+  position: relative;
+
+  display: inline-block;
+
+  margin-bottom: 15px;
+
+  width: 100%;
+
+}
+
+.select select {
+
+  display: inline-block;
+
+  width: 100%;
+
+  cursor: pointer;
+
+  padding: 10px 15px;
+
+  outline: 0;
+
+  border: 0;
+
+  border-radius: 0;
+
+  background: #e6e6e6;
+
+  color: #7b7b7b;
+
+  appearance: none;
+
+  -webkit-appearance: none;
+
+  -moz-appearance: none;
+
+}
+
+.select select::-ms-expand {
+
+  display: none;
+
+}
+
+.select select:hover,
+
+.select select:focus {
+
+  color: #000;
+
+  background: #ccc;
+
+}
+
+.select select:disabled {
+
+  opacity: 0.5;
+
+  pointer-events: none;
+
+}
+
+.select__arrow {
+
+  position: absolute;
+
+  top: 16px;
+
+  right: 15px;
+
+  width: 0;
+
+  height: 0;
+
+  pointer-events: none;
+
+  border-style: solid;
+
+  border-width: 8px 5px 0 5px;
+
+  border-color: #7b7b7b transparent transparent transparent;
+
+}
+
+.select select:hover ~ .select__arrow,
+
+.select select:focus ~ .select__arrow {
+
+  border-top-color: #000;
+
+}
+
+.select select:disabled ~ .select__arrow {
+
+  border-top-color: #ccc;
+
+}
+
+
+
+/*------------------------------------------------------------------------------------------*/
+
+
+
+/*#wizard-ns-detail-servers, .wizard-additional-servers {
+
+	font-size: 12px;
+
+	margin-top: 10px;
+
+	margin-left: 15px;
+
+}
+
+#wizard-ns-detail-servers > li, .wizard-additional-servers li {
+
+	line-height: 20px;
+
+	list-style-type: none;
+
+}
+
+#wizard-ns-detail-servers > li > img {
+
+	padding-right: 5px;
+
+}
+
+
+
+.wizard-modal .chzn-container .chzn-results {
+
+	max-height: 150px;
+
+}
+
+.wizard-addl-subsection {
+
+	margin-bottom: 40px;
+
+}
+
+.create-server-agent-key {
+
+	margin-left: 15px; 
+
+	width: 90%;
+
+}*/

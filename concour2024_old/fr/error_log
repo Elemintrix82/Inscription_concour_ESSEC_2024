@@ -1,0 +1,738 @@
+[07-Jun-2018 11:39:55 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[07-Jun-2018 11:39:56 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[07-Jun-2018 11:39:57 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[07-Jun-2018 11:39:58 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[07-Jun-2018 11:40:02 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[07-Jun-2018 11:40:02 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[07-Jun-2018 11:40:06 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[07-Jun-2018 11:40:07 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[07-Jun-2018 11:40:46 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[07-Jun-2018 11:40:53 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[11-Jun-2018 07:01:59 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[11-Jun-2018 07:03:10 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[11-Jun-2018 07:03:17 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[12-Jun-2018 09:31:15 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[12-Jun-2018 09:40:17 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[12-Jun-2018 09:42:10 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[12-Jun-2018 09:44:07 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[12-Jun-2018 09:44:11 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[12-Jun-2018 09:44:13 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[12-Jun-2018 09:44:13 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[12-Jun-2018 09:44:18 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[12-Jun-2018 09:44:20 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[12-Jun-2018 09:44:21 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[12-Jun-2018 10:19:21 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[12-Jun-2018 10:19:29 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[12-Jun-2018 10:20:31 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[19-Jun-2018 09:38:56 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[19-Jun-2018 09:38:57 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:32:55 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:05 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:05 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:09 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:11 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:15 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:15 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:16 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:17 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:17 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:17 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:18 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:21 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:26 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:26 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:32 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:35 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:35 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:37 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:37 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:38 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:44 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:46 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:46 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:47 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:33:48 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:34:00 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:34:13 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:34:29 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[20-Jun-2018 09:35:20 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[25-Jun-2018 12:38:13 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[25-Jun-2018 12:39:37 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[25-Jun-2018 12:41:05 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[25-Jun-2018 12:41:28 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[25-Jun-2018 12:41:33 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[25-Jun-2018 12:41:35 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[25-Jun-2018 12:41:37 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[25-Jun-2018 12:41:40 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[25-Jun-2018 12:41:43 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[25-Jun-2018 12:41:44 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[25-Jun-2018 12:41:50 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:22:24 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:22:24 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:22:35 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:22:41 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:22:45 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:22:53 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:22:57 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:22:59 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:23:04 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:23:09 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:23:12 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:23:14 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:23:17 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:23:19 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:23:21 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:23:22 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:23:25 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:23:26 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:23:28 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:23:31 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:23:34 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:23:38 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:23:40 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:24:05 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:24:09 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:24:11 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:24:13 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:24:17 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:24:19 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:24:21 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:24:34 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:24:36 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:24:40 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:24:50 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:24:59 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:25:03 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[04-Jul-2018 10:25:09 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[11-Jul-2018 09:32:12 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[11-Jul-2018 09:32:15 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[11-Jul-2018 09:32:19 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[11-Jul-2018 09:32:22 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[11-Jul-2018 09:32:58 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[11-Jul-2018 09:33:03 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[11-Jul-2018 09:33:12 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[11-Jul-2018 09:33:17 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[11-Jul-2018 09:33:28 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[11-Jul-2018 09:33:33 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[11-Jul-2018 09:33:49 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[11-Jul-2018 09:33:54 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[11-Jul-2018 09:34:25 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[16-Jul-2018 09:46:27 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[24-Jul-2018 10:11:19 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[26-Jul-2018 09:46:34 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
+[29-Aug-2018 15:16:53 Africa/Douala] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)' in /home/nyqhw2xq/public_html/concours2018/connexion.php:25
+Stack trace:
+#0 /home/nyqhw2xq/public_html/concours2018/connexion.php(25): PDO->__construct('mysql:host=loca...', 'nyqhw2xq_essec_...', 'Essec_u_pwd')
+#1 /home/nyqhw2xq/public_html/concours2018/fr/index.php(4): DB->getConnection()
+#2 {main}
+  thrown in /home/nyqhw2xq/public_html/concours2018/connexion.php on line 25
